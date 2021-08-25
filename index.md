@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dylan Mattinson's portfolio
 
 You can use the [editor on GitHub](https://github.com/DylanMattinson/2022Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
